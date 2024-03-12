@@ -12,16 +12,16 @@
 
 :root {
   /* Elsie base design */
+
+  /* --color-brand-300: #021373;
+  --color-brand-500: #202D73;
+  --color-brand-600: #F2B544;
+  --color-brand-700: #F2AA52; */
   
-/*   --color-brand-300: #6d6d6d;
+  --color-brand-300: #6d6d6d;
   --color-brand-500: #454545;
   --color-brand-600: #383838;
   --color-brand-700: #2b2b2b;
- */ 
-  --color-brand-300: #021373;
-  --color-brand-500: #202D73;
-  --color-brand-600: #F2B544;
-  --color-brand-700: #F2AA52;
   --color-neutral-50: #fff;
   --color-neutral-100: #fafafa;
   --color-neutral-200: #f5f5f5;
